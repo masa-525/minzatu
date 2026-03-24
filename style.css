@@ -2,6 +2,8 @@ header {
   background-color:#03AED2;
   display: flex;
   justify-content: space-between;
+  padding-top: 20px;
+  padding-bottom: 20px:
 }
 .logo {
   background-color: green;
