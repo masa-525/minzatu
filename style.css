@@ -1,6 +1,7 @@
 header {
   background-color: lightgray;
   display: flex;
+  justify-content: space-between;
 }
 .logo {
   background-color: green;
