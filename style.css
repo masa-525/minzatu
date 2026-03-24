@@ -1,3 +1,9 @@
 header {
   background-color: lightgray;
 }
+.logo {
+  background-color: green;
+}
+.man {
+    background-color: blue;
+}
