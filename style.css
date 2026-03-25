@@ -5,10 +5,11 @@ header {
   padding: 20px 10px 20px 20px;
 }
 .logo {
-
+text-decoration: none;
 }
 .man {
 magin-right: 20px;
+text-decoration: none;
 }
 .row {
 
