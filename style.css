@@ -42,6 +42,8 @@ header {
 /* コンテンツ */
 .content {
   padding: 20px;
+  text-decoration: none;
+  color: black;
 }
 
 .setumei {
