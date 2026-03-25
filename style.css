@@ -2,9 +2,7 @@ header {
   background-color:#03AED2;
   display: flex;
   justify-content: space-between;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 20px;
+  padding: 20px;
 }
 .logo {
 
