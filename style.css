@@ -42,10 +42,12 @@ header {
 /* コンテンツ */
 .content {
   padding: 20px;
-  text-decoration: none;
-  color: black;
 }
 
 .setumei {
   margin-top: 10px;
+}
+.zep {
+  text-decoration: none;
+  color: black;
 }
